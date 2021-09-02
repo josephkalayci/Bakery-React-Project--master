@@ -44,6 +44,7 @@
   font-size: 0.8em;
   max-width: 311px;
   min-width: 20px;
+  background: blue;
   margin-top: 15px;
   align-items: left;
   margin-left: 15px;
@@ -94,6 +95,7 @@
   font-size: 0.8em;
   max-width: 124px;
   min-width: 20px;
+  background: blue;
   margin-top: 15px;
   align-items: left;
   margin-left: 15px;
